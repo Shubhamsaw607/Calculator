@@ -15,7 +15,7 @@ def on_click(event):
     else:
         entry.insert(tk.END, text)
 
-# Create the main WINDOW
+# Create the main window
 root = tk.Tk()
 root.title("Digital Calculator")
 
